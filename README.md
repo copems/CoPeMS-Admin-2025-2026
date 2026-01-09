@@ -7,5 +7,5 @@ Construction Permit Management System
 
 ## Run Project
 
-    backend / npm start
+    backend / npx nodemon index.js
     frontend-admin / npm run dev
